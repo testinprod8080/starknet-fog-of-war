@@ -1,1 +1,1 @@
-# starknet-fog-of-war
+# starknet July hackathon

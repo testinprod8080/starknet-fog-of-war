@@ -1,0 +1,54 @@
+[
+    {
+        "members": [
+            {
+                "name": "low",
+                "offset": 0,
+                "type": "felt"
+            },
+            {
+                "name": "high",
+                "offset": 1,
+                "type": "felt"
+            }
+        ],
+        "name": "Uint256",
+        "size": 2,
+        "type": "struct"
+    },
+    {
+        "inputs": [
+            {
+                "name": "__warp_usrid16_a",
+                "type": "(Uint256, Uint256)"
+            },
+            {
+                "name": "__warp_usrid17_b",
+                "type": "((Uint256, Uint256), (Uint256, Uint256))"
+            },
+            {
+                "name": "__warp_usrid18_c",
+                "type": "(Uint256, Uint256)"
+            },
+            {
+                "name": "__warp_usrid19_input",
+                "type": "(Uint256, Uint256)"
+            }
+        ],
+        "name": "verifyProof_f5c9d69e",
+        "outputs": [
+            {
+                "name": "__warp_usrid20_r",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    }
+]
